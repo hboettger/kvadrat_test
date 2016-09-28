@@ -3,3 +3,5 @@ Another change
 Second change
 third change
 Fifth change
+
+Læs fil test_2.txt om en god historie
